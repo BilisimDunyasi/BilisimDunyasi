@@ -3,7 +3,7 @@
 - 👀 We are interested in in both software and hardware.
 - 🌱 We are currently learning and teaching Kotlin, Python, Android Development, Web Development etc
 - 💞️ We are looking to collaborate on software developers, graphic designers and hardware specialists 
-- 📫 How to reach us https://x.com/pcdunyasi2024
+- 📫 How to reach us https://x.com/pcdunyasi2024, bilisimdunyasi2024@gmail.com
 - 😄 Pronouns: code pc fun
 - ⚡ Fun fact: lets code
 
